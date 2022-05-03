@@ -8,3 +8,4 @@
 ### **MINIMAL KALO FORK KASI BINTANG YA ANJG**
 
 ### ***NOTES (FORK DULU KASIH BUTTON /LINK DEPLOY SENDIRI)***
+### ***DEPLOY (https://github.com/Kyyasst/KeyyXfsub1)***
